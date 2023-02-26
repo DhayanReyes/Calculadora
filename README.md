@@ -24,7 +24,7 @@ En este proyecto me enfoqué en realizar una calculadora, contiene las siguiente
 
 * **Header**: Donde se encuentra los metadatos y la conexión de Boostrap
 
-* **Main**: Sección del contenedor para los elementos: Datos introduccidos por el usuario, botones y una casilla de alerta para mostrar los reultados Además de la vinculación con Javascript.
+* **Body**: Sección del contenedor para los elementos: Datos introduccidos por el usuario, botones y una casilla de alerta para mostrar los reultados Además de la vinculación con Javascript.
 
 
 
