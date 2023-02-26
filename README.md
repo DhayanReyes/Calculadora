@@ -36,4 +36,4 @@ Aprender a conectar mi HTML5 con los estilos de Boostrat además de un achivo de
 
 ## 4. Link a Demo
 
-Aquí puedes ver mi trabajo terminado: [Clonación Google](https://google-dhayanreyes.netlify.app)
+Aquí puedes ver mi trabajo terminado: [Calculadora](calculadora-dhayanreyes.netlify.app)
