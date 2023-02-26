@@ -1,7 +1,7 @@
 # Calculadora
 
 
-Proyecto de creación de calculadora con ayuda de Javascript y Boostrap
+Proyecto de creación de calculadora con ayuda de JavaScript y Boostrap
 
 ## **ÍNDICE**
 
@@ -14,7 +14,7 @@ Proyecto de creación de calculadora con ayuda de Javascript y Boostrap
 ****
 ## 1. Intro
 
-HTML5 trabaja de la mano con Boostrad, así como de Javascript para crear páginas con interacción para el usuario. En esta ocasión se tuvo la oportunidad de trabajar con ambos, omitiendo el uso de un archivo de CCS3.
+HTML5 trabaja de la mano con Boostrad, así como de JavaScript para crear páginas con interacción para el usuario. En esta ocasión se tuvo la oportunidad de trabajar con ambos, omitiendo el uso de un archivo de CCS3.
 
 
 
@@ -24,14 +24,14 @@ En este proyecto me enfoqué en realizar una calculadora, contiene las siguiente
 
 * **Header**: Donde se encuentra los metadatos y la conexión de Boostrap
 
-* **Body**: Sección del contenedor para los elementos: Datos introduccidos por el usuario, botones y una casilla de alerta para mostrar los reultados Además de la vinculación con Javascript.
+* **Body**: Sección del contenedor para los elementos: Datos introduccidos por el usuario, botones y una casilla de alerta para mostrar los reultados Además de la vinculación con JavaScript.
 
 
 
 ## 3. Objetivo del proyecto
 
 
-Aprender a conectar mi HTML5 con los estilos de Boostrat además de un achivo de Javascript
+Aprender a conectar mi HTML5 con los estilos de Boostrat además de un achivo de JavaScript
 
 
 ## 4. Link a Demo
